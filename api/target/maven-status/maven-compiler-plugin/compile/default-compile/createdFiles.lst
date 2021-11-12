@@ -1,0 +1,6 @@
+org/openmrs/module/sunnymodule/api/dao/SunnyModuleDao.class
+org/openmrs/module/sunnymodule/SunnyModuleConfig.class
+org/openmrs/module/sunnymodule/SunnyModuleActivator.class
+org/openmrs/module/sunnymodule/Item.class
+org/openmrs/module/sunnymodule/api/impl/SunnyModuleServiceImpl.class
+org/openmrs/module/sunnymodule/api/SunnyModuleService.class
