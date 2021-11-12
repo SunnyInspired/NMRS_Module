@@ -1,3 +1,4 @@
 org/openmrs/module/sunnymodule/fragment/controller/UsersFragmentController.class
+org/openmrs/module/sunnymodule/fragment/controller/EncountersFragmentController.class
 org/openmrs/module/sunnymodule/web/controller/SunnyModuleController.class
 org/openmrs/module/sunnymodule/extension/html/AdminList.class

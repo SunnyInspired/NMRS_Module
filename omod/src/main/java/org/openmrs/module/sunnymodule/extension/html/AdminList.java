@@ -45,6 +45,7 @@ public class AdminList extends AdministrationSectionExt {
 		
 		map.put("module/sunnymodule/sunnymodule.form", "sunnymodule.title");
 		map.put("sunnymodule/sunnymodule.page", "sunnymodule.refapp.title");
+		map.put("sunnymodule/encpage.page", "List All Encounters");
 		
 		return map;
 	}
